@@ -1,0 +1,11 @@
+.footer div{
+    background-color: #d23822;
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 11px;
+    color: white;
+    font-weight: lighter;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+}
